@@ -1,0 +1,16 @@
+1002,10.00,8,03-06-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.00,8,03-06-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.00,8,03-06-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.00,8,03-06-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.00,8,03-06-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.00,8,03-06-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.00,8,03-06-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.03,3,03-20-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.03,3,03-20-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.03,3,03-20-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.03,3,03-20-19,null,null,hvmE0VfZ5wZfuNV4oQoqtZv0qAn1
+1002,10.12,2,03-20-19,null,null,PbfXO7QpFiaVT4iUAhaWBqbLuQo1
+1002,10.12,2,03-20-19,null,null,PbfXO7QpFiaVT4iUAhaWBqbLuQo1
+1002,10.12,2,03-20-19,null,null,PbfXO7QpFiaVT4iUAhaWBqbLuQo1
+1002,10.12,2,03-20-19,null,null,PbfXO7QpFiaVT4iUAhaWBqbLuQo1
+1002,10.12,2,03-20-19,null,null,PbfXO7QpFiaVT4iUAhaWBqbLuQo1
